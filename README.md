@@ -1,2 +1,2 @@
-# FEM-algorithms-exercices
+# algorithms-exercises
 Created with CodeSandbox
